@@ -1,0 +1,11 @@
+C:\Users\58121039-0\Source\Repos\VB-Class5\workshop501\workshop501\bin\Debug\workshop501.exe.config
+C:\Users\58121039-0\Source\Repos\VB-Class5\workshop501\workshop501\bin\Debug\workshop501.exe
+C:\Users\58121039-0\Source\Repos\VB-Class5\workshop501\workshop501\bin\Debug\workshop501.pdb
+C:\Users\58121039-0\Source\Repos\VB-Class5\workshop501\workshop501\bin\Debug\workshop501.xml
+C:\Users\58121039-0\Source\Repos\VB-Class5\workshop501\workshop501\obj\Debug\workshop501.Form1.resources
+C:\Users\58121039-0\Source\Repos\VB-Class5\workshop501\workshop501\obj\Debug\workshop501.Resources.resources
+C:\Users\58121039-0\Source\Repos\VB-Class5\workshop501\workshop501\obj\Debug\workshop501.vbproj.GenerateResource.cache
+C:\Users\58121039-0\Source\Repos\VB-Class5\workshop501\workshop501\obj\Debug\workshop501.vbproj.CoreCompileInputs.cache
+C:\Users\58121039-0\Source\Repos\VB-Class5\workshop501\workshop501\obj\Debug\workshop501.exe
+C:\Users\58121039-0\Source\Repos\VB-Class5\workshop501\workshop501\obj\Debug\workshop501.xml
+C:\Users\58121039-0\Source\Repos\VB-Class5\workshop501\workshop501\obj\Debug\workshop501.pdb
