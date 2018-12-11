@@ -31,10 +31,11 @@ Partial Class Form1
         '
         Me.Numeric.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Numeric.Increment = New Decimal(New Integer() {10, 0, 0, 0})
-        Me.Numeric.Location = New System.Drawing.Point(26, 31)
+        Me.Numeric.Location = New System.Drawing.Point(20, 25)
+        Me.Numeric.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Numeric.Minimum = New Decimal(New Integer() {10, 0, 0, 0})
         Me.Numeric.Name = "Numeric"
-        Me.Numeric.Size = New System.Drawing.Size(111, 30)
+        Me.Numeric.Size = New System.Drawing.Size(83, 26)
         Me.Numeric.TabIndex = 0
         Me.Numeric.Value = New Decimal(New Integer() {10, 0, 0, 0})
         '
@@ -44,20 +45,22 @@ Partial Class Form1
         Me.LabelNumeric.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.LabelNumeric.Font = New System.Drawing.Font("Microsoft Sans Serif", 60.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LabelNumeric.ForeColor = System.Drawing.Color.Tomato
-        Me.LabelNumeric.Location = New System.Drawing.Point(174, 31)
+        Me.LabelNumeric.Location = New System.Drawing.Point(130, 25)
+        Me.LabelNumeric.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LabelNumeric.Name = "LabelNumeric"
-        Me.LabelNumeric.Size = New System.Drawing.Size(264, 242)
+        Me.LabelNumeric.Size = New System.Drawing.Size(198, 197)
         Me.LabelNumeric.TabIndex = 1
         Me.LabelNumeric.Text = "Label1"
         Me.LabelNumeric.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(479, 308)
+        Me.ClientSize = New System.Drawing.Size(359, 250)
         Me.Controls.Add(Me.LabelNumeric)
         Me.Controls.Add(Me.Numeric)
+        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Name = "Form1"
         Me.Text = "Form1"
         CType(Me.Numeric, System.ComponentModel.ISupportInitialize).EndInit()

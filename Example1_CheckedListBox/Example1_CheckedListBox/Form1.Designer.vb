@@ -32,25 +32,28 @@ Partial Class Form1
         '
         Me.CheckedListBox.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CheckedListBox.FormattingEnabled = True
-        Me.CheckedListBox.Location = New System.Drawing.Point(247, 30)
+        Me.CheckedListBox.Location = New System.Drawing.Point(185, 24)
+        Me.CheckedListBox.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.CheckedListBox.Name = "CheckedListBox"
-        Me.CheckedListBox.Size = New System.Drawing.Size(272, 179)
+        Me.CheckedListBox.Size = New System.Drawing.Size(205, 130)
         Me.CheckedListBox.TabIndex = 0
         '
         'TextBoxItem
         '
         Me.TextBoxItem.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBoxItem.Location = New System.Drawing.Point(24, 30)
+        Me.TextBoxItem.Location = New System.Drawing.Point(18, 24)
+        Me.TextBoxItem.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.TextBoxItem.Name = "TextBoxItem"
-        Me.TextBoxItem.Size = New System.Drawing.Size(197, 30)
+        Me.TextBoxItem.Size = New System.Drawing.Size(149, 26)
         Me.TextBoxItem.TabIndex = 1
         '
         'ButtonAdd
         '
         Me.ButtonAdd.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ButtonAdd.Location = New System.Drawing.Point(24, 74)
+        Me.ButtonAdd.Location = New System.Drawing.Point(18, 60)
+        Me.ButtonAdd.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.ButtonAdd.Name = "ButtonAdd"
-        Me.ButtonAdd.Size = New System.Drawing.Size(90, 41)
+        Me.ButtonAdd.Size = New System.Drawing.Size(68, 33)
         Me.ButtonAdd.TabIndex = 2
         Me.ButtonAdd.Text = "Add"
         Me.ButtonAdd.UseVisualStyleBackColor = True
@@ -58,22 +61,24 @@ Partial Class Form1
         'ButtonDelete
         '
         Me.ButtonDelete.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ButtonDelete.Location = New System.Drawing.Point(131, 74)
+        Me.ButtonDelete.Location = New System.Drawing.Point(98, 60)
+        Me.ButtonDelete.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.ButtonDelete.Name = "ButtonDelete"
-        Me.ButtonDelete.Size = New System.Drawing.Size(90, 41)
+        Me.ButtonDelete.Size = New System.Drawing.Size(68, 33)
         Me.ButtonDelete.TabIndex = 3
         Me.ButtonDelete.Text = "Delete"
         Me.ButtonDelete.UseVisualStyleBackColor = True
         '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(550, 240)
+        Me.ClientSize = New System.Drawing.Size(412, 195)
         Me.Controls.Add(Me.ButtonDelete)
         Me.Controls.Add(Me.ButtonAdd)
         Me.Controls.Add(Me.TextBoxItem)
         Me.Controls.Add(Me.CheckedListBox)
+        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
