@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\TNI\Year 4\VB\W5\Week5 HW2\Week5 HW2\bin\Debug\Week5 HW2.exe.config
+C:\Users\User\Desktop\TNI\Year 4\VB\W5\Week5 HW2\Week5 HW2\bin\Debug\Week5 HW2.exe
+C:\Users\User\Desktop\TNI\Year 4\VB\W5\Week5 HW2\Week5 HW2\bin\Debug\Week5 HW2.pdb
+C:\Users\User\Desktop\TNI\Year 4\VB\W5\Week5 HW2\Week5 HW2\bin\Debug\Week5 HW2.xml
+C:\Users\User\Desktop\TNI\Year 4\VB\W5\Week5 HW2\Week5 HW2\obj\Debug\Week5 HW2.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\TNI\Year 4\VB\W5\Week5 HW2\Week5 HW2\obj\Debug\Week5_HW2.Form1.resources
+C:\Users\User\Desktop\TNI\Year 4\VB\W5\Week5 HW2\Week5 HW2\obj\Debug\Week5_HW2.Resources.resources
+C:\Users\User\Desktop\TNI\Year 4\VB\W5\Week5 HW2\Week5 HW2\obj\Debug\Week5 HW2.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\TNI\Year 4\VB\W5\Week5 HW2\Week5 HW2\obj\Debug\Week5 HW2.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TNI\Year 4\VB\W5\Week5 HW2\Week5 HW2\obj\Debug\Week5 HW2.exe
+C:\Users\User\Desktop\TNI\Year 4\VB\W5\Week5 HW2\Week5 HW2\obj\Debug\Week5 HW2.xml
+C:\Users\User\Desktop\TNI\Year 4\VB\W5\Week5 HW2\Week5 HW2\obj\Debug\Week5 HW2.pdb
