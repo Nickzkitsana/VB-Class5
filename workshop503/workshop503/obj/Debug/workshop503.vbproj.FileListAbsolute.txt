@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\VB-Class5\workshop503\workshop503\bin\Debug\workshop503.exe
+C:\Users\Lenovo\Source\Repos\VB-Class5\workshop503\workshop503\bin\Debug\workshop503.pdb
+C:\Users\Lenovo\Source\Repos\VB-Class5\workshop503\workshop503\bin\Debug\workshop503.xml
+C:\Users\Lenovo\Source\Repos\VB-Class5\workshop503\workshop503\obj\Debug\workshop503.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\VB-Class5\workshop503\workshop503\obj\Debug\workshop503.Form1.resources
+C:\Users\Lenovo\Source\Repos\VB-Class5\workshop503\workshop503\obj\Debug\workshop503.Resources.resources
+C:\Users\Lenovo\Source\Repos\VB-Class5\workshop503\workshop503\obj\Debug\workshop503.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Source\Repos\VB-Class5\workshop503\workshop503\obj\Debug\workshop503.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\VB-Class5\workshop503\workshop503\obj\Debug\workshop503.exe
+C:\Users\Lenovo\Source\Repos\VB-Class5\workshop503\workshop503\obj\Debug\workshop503.xml
+C:\Users\Lenovo\Source\Repos\VB-Class5\workshop503\workshop503\obj\Debug\workshop503.pdb
